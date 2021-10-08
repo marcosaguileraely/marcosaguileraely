@@ -3,9 +3,9 @@
 ### Open for contribute to open source projects and willing to give a hand whoever you're! 
 
 ## About Me
-My passion for technology and computers has led me to become a software developer!
+My joy is learn about technology and computers has led me to become a software developer!
 
-My experience in the restaurant industry contributed to my huge passion for helping and meeting people!
++8 years experience in education industry contributed to my huge passion for helping and meeting people!
 
 I love solving challenges and absolutely love the process of solving problems through code. 
 
@@ -23,5 +23,6 @@ I love solving challenges and absolutely love the process of solving problems th
 <a href="https://github.com/marcosaguileraely"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a> 
 <a href="https://github.com/marcosaguileraely"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 
-## Let's be connected!🤜💢🤛
+## 🤜💢🤛 Let's be connected!
 <a href="https://www.linkedin.com/in/marcodeely/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:marcosaguileraely@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/marcode_ely"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
