@@ -1,4 +1,4 @@
-# Hello visitor! 🖖
+# Hello everyone! 🖖
 
 ### Open for contribute to open source projects and willing to give a hand whoever you're! 
 
