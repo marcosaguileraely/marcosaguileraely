@@ -1,8 +1,8 @@
-# Hello everyone! 🖖
+# Hello, nice to meet you all! 🖖
 
 ### Open for contribute to open source projects and willing to give a hand whoever you're! 
 
-## About Me
+## 👨‍💻 About Me
 My joy is learn about technology and computers has led me to become a software developer!
 
 +8 years experience in education industry contributed to my huge passion for helping and meeting people!
